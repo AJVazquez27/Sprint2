@@ -220,6 +220,7 @@ footer p{
 
 .about{
     width: 90%;
+    color:rgb(173, 114, 228); 
     display: flex;
     justify-content: flex-start;
     margin-top: 5.5rem;
@@ -230,6 +231,7 @@ footer p{
 
 .aboutL{
     width: 100%;
+    color: rgb(173, 114, 228);;
     display: flex;
     justify-content: flex-start;
     margin-top: 5.5rem;
